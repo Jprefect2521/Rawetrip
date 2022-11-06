@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ExePrj.cpp
+  Rawetrip.cpp
+  Rawetrip_data.cpp
+  Rawetrip_InitData.cpp
+  Rawetrip_rdata.cpp
+  Rawetrip_rsrc.cpp
+  Rawetrip_text.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(D:\Downloads\2c\soiurce\Release\ExePrj.exe) does not match the Linker's OutputFile property value (D:\Downloads\2c\soiurce\Release\rawetrip.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1373,5): warning MSB8012: TargetName(ExePrj) does not match the Linker's OutputFile property value (rawetrip). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library D:\Downloads\2c\soiurce\Release\ExePrj.lib and object D:\Downloads\2c\soiurce\Release\ExePrj.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+* CIL library *(* CIL module *) : warning LNK4078: multiple '.text' sections found with different attributes (C0400040)
+  ExePrj.vcxproj -> D:\Downloads\2c\soiurce\Release\ExePrj.exe
